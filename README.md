@@ -8,7 +8,10 @@ Users will also be able to sell their own clothes. They won't be able to sell th
 
 Users will also be able to share their outfits with other users so that way they can gain inspiration and possibly implement / experiment with it and add it in their own collection. This part of the web application won't be the main attraction though.
 
-[API Endpoints](./docs/api-endpoints.md)
-[ERD](./docs/erd.md)
-[Model](./docs/model.md)
-[Technology](./docs/technology.md)
+## > [API Endpoints](./docs/api-endpoints.md)
+
+## > [ERD](./docs/erd.md)
+
+## > [Model](./docs/model.md)
+
+## > [Technology](./docs/technology.md)
