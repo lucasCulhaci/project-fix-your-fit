@@ -8,62 +8,7 @@ Users will also be able to sell their own clothes. They won't be able to sell th
 
 Users will also be able to share their outfits with other users so that way they can gain inspiration and possibly implement / experiment with it and add it in their own collection. This part of the web application won't be the main attraction though.
 
-# ERD
-...
-
-# Model
-## User
-- (ID)
-- Username
-- E-mail
-- Country
-- DeliveryFullName (nullable?) -> This only needs to be filled in if an item bought or sold
-- DeliveryAddress (nullable?) -> This only needs to be filled in if an item bought or sold
-
-## Clothing
-- (ID)
-- Type
-- Brand
-- Color
-- Description
-- Size
-
-## Bundle
-- (ID)
-- ClothingID []
-  - ! TODO : Come back to this
-- Price
-
-## Order
-- (ID)
-- OrderDate
-- UserID
-- OrderProduct [ ]
-  - ProductId
-  - Price
-  - Quantity
-
-# API Endpoints
-...
-
-# Technologies
-## General
-- Segno - EPC QR Code (Pay with Bancontact) & Stripe
-- Capacitor - React Desktop to Mobile
-- Adobe Color - Create a Color Palette
-- SonarQube Community - Code Quality
-- Heroicons - Icons
-- Lucide Animated Icons - Animated Icons
-- ...
-
-## Frontend
-- React with TypeScript
-- Formik Docs - Forms
-- Tailwind CSS - Styling
-- ...
-
-## Backend
-- Dotnet 10.0 - API
-- Entity Framework Core - Object-Relational Mapper
-- Some type of Database (PostgreSQL or MongoDB)
-- ...
+[API Endpoints](./docs/api-endpoints.md)
+[ERD](./docs/erd.md)
+[Model](./docs/model.md)
+[Technology](./docs/technology.md)
