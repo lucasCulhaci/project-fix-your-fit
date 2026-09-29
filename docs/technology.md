@@ -6,6 +6,7 @@
 - SonarQube Community - Code Quality
 - Heroicons - Icons
 - Lucide Animated Icons - Animated Icons
+- Mermaid - ERD
 - ...
 
 ## Frontend
