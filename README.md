@@ -6,7 +6,7 @@ Instead of the user digging through their own wardrobe to see which pieces they 
 
 Users will also be able to sell their own clothes. They won't be able to sell their clothes outside of the country they live in, every sale is national. For example, if a certain user lives in Belgium, they'll only be able to sell clothes to someone that also lives in Belgium. The reason it being implemented this way is mainly to avoid huge shipping costs. Sustainable living also plays a part in this but this isn't something most users really care about. These payments will be processed using Segno ("In Belgium") and Stripe.
 
-Users will also be able to share their outfits with other users so that way they can gain inspiration and possibly implement / experiment with it and add it in their own collection. This part of the web application won't be the main attraction though.
+Users will also be able to share their outfits with other users so that way they can gain inspiration and possibly implement / experiment with it and add it in their own collection.
 
 ## > [API Endpoints](./docs/api-endpoints.md)
 
